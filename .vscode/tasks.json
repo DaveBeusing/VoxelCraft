@@ -15,7 +15,7 @@
                 "${workspaceFolder}/vendor/glad/glad.c",
                 "-lglfw3dll",
                 "-o",
-                "${workspaceFolder}/VoxelCraft.exe"
+                "${workspaceFolder}/build/VoxelCraft.exe"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
